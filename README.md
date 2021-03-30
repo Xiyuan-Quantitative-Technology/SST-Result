@@ -7,10 +7,10 @@ Download data from the following link.
 And You can respectively run DNN_1L_SST_regress.py, DNN_1L_SST_regress.py, DNN_1L_SST_regress.py, XGBOOST_SST_regress.py, and GCN_SST_regress.py.Then you will get the result figure.
 
 gcn_data(This dataset is for GCN_SST_regress):
-gcn_data_link：https://pan.baidu.com/s/1Gxs9XEpep6EuKOJORFzkXg 
+https://pan.baidu.com/s/1Gxs9XEpep6EuKOJORFzkXg 
 password：ws75 
 
 dnn & xgboost data(This dataset is for DNN_1L_SST_regress.py, DNN_1L_SST_regress.py, DNN_1L_SST_regress.py, and XGBOOST_SST_regress.py):
-dnn&xgboost data link：https://pan.baidu.com/s/1mKYu-gUJd9PgWnjfK8UgOg 
+https://pan.baidu.com/s/1mKYu-gUJd9PgWnjfK8UgOg 
 password：182r 
 
