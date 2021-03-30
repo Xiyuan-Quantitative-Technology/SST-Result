@@ -1,4 +1,4 @@
-# multitask approach to learn molecular quantum chemical properties
+# A multitask approach to learn molecular quantum chemical properties
 
 Before running the code，You have to install some python packages. They include but are not limited to deepchem, pytorch, numpy, pandas, and matplotlib.
 
