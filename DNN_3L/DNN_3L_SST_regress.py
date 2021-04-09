@@ -29,11 +29,11 @@ def main():
     ##########################################################
     
     #fetch data
-    with open('ECFP_data.pkl', 'rb') as f:
+    with open('ECFP_modified.pkl', 'rb') as f:
         data_list = pickle.load(f)
         f.close()
     
-    tasks, train_X, train_y, test_X, test_y, val_X, val_y, transformers = data_list
+    tasks, train_X, train_y, test_X, test_y, val_X, val_y = data_list
     
     ##########################################################
     
