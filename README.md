@@ -8,11 +8,10 @@ The program can generate the RRMSE for both ST and SST models with different bas
 
 
 GCN input data can be obtained in: 
-https://pan.baidu.com/s/1Gxs9XEpep6EuKOJORFzkXg 
-password：ws75
+link:https://pan.baidu.com/s/1HXZP6TAM-Rv_wAjGggxmdQ  
+password:6izr
 
 
 DNN & xgboost input data can be obtained in: 
-https://pan.baidu.com/s/1mKYu-gUJd9PgWnjfK8UgOg 
-password：182r
-
+link:https://pan.baidu.com/s/1y05WQcsMklKJIf7WIHhfgw  
+password:3oyb
